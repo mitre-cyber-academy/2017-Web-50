@@ -1,0 +1,1 @@
+This challenges consists of a HTML page that has the key MCA{C0PYING_1z_d@ng3r0us on it. If the user tries to copy the key with the clipboard, some JS will change MCA{C0PYING_1z_d@ng3r0us to MCA{C0PYING_lz_d@ng3r0us where the '1' changes to a 'l'. This is to confuse the player so that they have to go back and look at it. 
