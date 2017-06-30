@@ -1,4 +1,4 @@
- # Impossible Boss Battle 
+ # Clipboard Trust Issues
 
 ## How to Solve
 
